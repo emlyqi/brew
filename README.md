@@ -1,4 +1,4 @@
-## Brew
+# Brew
 Brew better connections.
 
 ### Prerequisites
@@ -85,4 +85,9 @@ curl "http://localhost:3001/api/search?query=waterloo%20grad&num_results=5"
 - Frontend (Vercel): project root contains `vercel.json` that builds `frontend/`
 - Backend (Railway/Render): set `PYTHON_ML_URL`
 - ML service (Render recommended): ensure `OPENAI_API_KEY` is set and service port is provided via `PORT` env (the code respects it, defaults to 8000)
-# brew
+
+### Next:
+- Move data to vector store
+- Deploy ML service and backend with Railway or Render, frontend with Vercel
+- Move message generation to modal/dropdown
+- GET MORE DATA!

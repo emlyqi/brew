@@ -1,0 +1,7 @@
+{
+  "num_profiles": 1000,
+  "embedding_dimension": 1536,
+  "model_used": "text-embedding-3-small",
+  "profiles_file": "src/data/processed/profiles.json",
+  "embeddings_file": "src/data/processed/embeddings.npy"
+}
