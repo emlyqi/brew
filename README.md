@@ -1,6 +1,8 @@
 # Brew
 Brew better connections.
 
+Video demo for while I get data/deploying figured out: https://youtu.be/2ChRmceIWhg
+
 ### Prerequisites
 - Python 3.11+
 - Node.js 18+
